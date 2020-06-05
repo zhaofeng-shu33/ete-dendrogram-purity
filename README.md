@@ -1,1 +1,1 @@
-dendrogram purity
+dendrogram purity. This metric is first proposed by Heller, Katherine A., and Zoubin Ghahramani. "Bayesian hierarchical clustering." Proceedings of the 22nd international conference on Machine learning. 2005.
